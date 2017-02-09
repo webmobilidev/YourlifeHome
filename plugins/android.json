@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
+            "PACKAGE_NAME": "com.designbest.yourlifehome"
+        }
+    },
+    "dependent_plugins": {}
+}
